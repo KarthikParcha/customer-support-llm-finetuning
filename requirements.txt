@@ -1,0 +1,10 @@
+unsloth
+trl
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+sentencepiece
+pandas
+huggingface_hub
